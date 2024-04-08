@@ -2,7 +2,7 @@
 
 CyberGuard Hub is a comprehensive cybersecurity platform that aims to empower users with the tools, knowledge, and resources they need to protect themselves and their digital assets in an increasingly interconnected world. From vulnerability detection to AI-driven cybersecurity assistance, CyberGuard Hub offers a wide range of features designed to enhance users' security posture and mitigate the risks posed by cyber threats.
 
-[![Watch the video](https://img.youtube.com/vi/Z913Hj_K6hw/maxresdefault.jpg)](https://youtu.be/Z913Hj_K6hw)
+[Watch the video](https://youtu.be/Z913Hj_K6hw)
 
 
 ## Features
